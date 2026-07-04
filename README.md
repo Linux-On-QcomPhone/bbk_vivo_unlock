@@ -1,7 +1,6 @@
 # bbk_vivo_unlock
-View Chinese description | [查看中文说明](README.cn.md)
-Unlock the bootloader for bbk_vivo old devices.
-###support devices:
+解锁vivo 在bbk早期旧设备的bootloader锁
+###支持设备：
 - Vivo Y13L -PD1304CL
 - Vivo Y613F -PD1304CF
 - Vivo Y21L -PD1309F
@@ -12,10 +11,9 @@ Unlock the bootloader for bbk_vivo old devices.
 - Vivo Y51A -PD1510
 - Vivo Y51 -PD1510F
 
+解锁命令
 Unlock bootloader:
 ```
 fastboot bbk unlock_vivo
 ```
-
-
 
