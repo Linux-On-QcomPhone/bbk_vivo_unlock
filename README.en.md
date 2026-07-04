@@ -7,19 +7,20 @@ Unlock the bootloader for bbk_vivo old devices.
 | PD1304CF | vivo Y613F |
 | PD1304CV | vivo Y913 |
 | PD1309F | vivo Y21L |
-| PD1419L | vivo Y23L |
-| PD1419F | vivo Y623 |
-| PD1419V | vivo Y923 |
 | PD1403L | vivo Y28L |
 | PD1403F | vivo Y628 |
 | PD1403V | vivo Y928 |
 | PD1410L | vivo Y27L |
 | PD1410F | vivo Y627 |
 | PD1410V | vivo Y927 |
+| PD1419L | vivo Y23L |
+| PD1419F | vivo Y623 |
+| PD1419V | vivo Y923 |
 | PD1505W | vivo Y31 |
 | PD1505F | vivo Y31A |
 | PD1510 | vivo Y51A |
-| PD1505F | vivo Y51 |
+| PD1510F | vivo Y51 |
+
 
 ## Usage Instructions
 
