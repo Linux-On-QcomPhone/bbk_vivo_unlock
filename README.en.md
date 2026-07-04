@@ -1,6 +1,6 @@
 # bbk_vivo_unlock
 Unlock the bootloader for bbk_vivo old devices.
-###support devices:
+### support devices:
 | CodeName | DeviceName |
 |-----|-----|
 | PD1304CL | vivo Y13L |
@@ -21,13 +21,13 @@ Unlock the bootloader for bbk_vivo old devices.
 | PD1510 | vivo Y51A |
 | PD1505F | vivo Y51 |
 
-##Usage Instructions
+## Usage Instructions
 
 1. Clone this repository.
 2. Choose the appropriate version for your system: Windows or Linux.
 3. Put your phone into fastboot mode, then use the unlock command to unlock it.
 
-###How to Enter Fastboot Mode
+### How to Enter Fastboot Mode
 
 1. With the phone powered off, press and hold the Power button and Volume Down button simultaneously.
 2. While the phone is booted into Android, use the following command:
@@ -35,11 +35,11 @@ Unlock the bootloader for bbk_vivo old devices.
 adb reboot bootloader
 ```
 
-###Unlock bootloader:
+### Unlock bootloader:
 ```
 fastboot bbk unlock_vivo
 ```
-##File Sources
+## File Sources
 - [Windows Version](https://github.com/shmilee/vivo-Y13L/blob/master/tools%2FAdbAdapter.rar)
 - [Linux Version](https://drive.google.com/file/d/1SA-6FcUHnwZRzKky720Wx5zIwoq0vE-E/view)
 - [Source Code](https://github.com/naveensingh/vivo_fastboot)
